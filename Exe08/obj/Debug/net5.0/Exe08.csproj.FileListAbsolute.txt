@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.exe
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.deps.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.runtimeconfig.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\ref\Exe08.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\bin\Debug\net5.0\Exe08.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.AssemblyInfo.cs
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\ref\Exe08.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe08\obj\Debug\net5.0\Exe08.genruntimeconfig.cache

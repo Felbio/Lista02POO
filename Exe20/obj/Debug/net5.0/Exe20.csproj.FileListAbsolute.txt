@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.AssemblyInfo.cs
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.exe
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.deps.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.runtimeconfig.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\ref\Exe20.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\bin\Debug\net5.0\Exe20.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\ref\Exe20.dll
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.pdb
+C:\Users\felip\Desktop\Universidade Metodista\SegSem2021\ProgramacaoOreientadaObjeto\ExercResolvList02\Exe20\obj\Debug\net5.0\Exe20.genruntimeconfig.cache
